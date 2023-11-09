@@ -1,8 +1,8 @@
-//Garzón Nieto Leandro José - 2194232
+//GarzÃ³n Nieto Leandro JosÃ© - 2194232
 //Figueroa Munar Brandon - 2194101
 `timescale 1ns / 1ps
 
-module main(
+module src(
     input A,
     input B,
     input CLK,
