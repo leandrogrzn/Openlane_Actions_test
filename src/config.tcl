@@ -1,10 +1,10 @@
 set ::env(DESIGN_NAME) src
 
 set ::env(VERILOG_FILES) "\
-	$::env(DESIGN_DIR)/src.v"
- 	$::env(DESIGN_DIR)/mux_4a1.v"
-  	$::env(DESIGN_DIR)/divisor_fr.v"
-   	$::env(DESIGN_DIR)/deco_siete.v"
+	$::env(DESIGN_DIR)/src.v
+ 	$::env(DESIGN_DIR)/mux_4a1.v
+  	$::env(DESIGN_DIR)/divisor_fr.v
+   	$::env(DESIGN_DIR)/deco_siete.v
     	$::env(DESIGN_DIR)/caja_anodos.v"
  
 set ::env(DESIGN_IS_CORE) 0
